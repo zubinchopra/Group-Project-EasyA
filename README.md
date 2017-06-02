@@ -1,5 +1,5 @@
 # Group-Project-EasyA
-Shiny link: https://jsiegelman.shinyapps.io/Group-Project-EasyA/
+Shiny link: https://zubinchopra.shinyapps.io/Group-Project-EasyA/
 
 The main Shiny app is in server.R and ui.R
 
